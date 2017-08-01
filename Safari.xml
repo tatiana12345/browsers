@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SafariTest">
+	<test name="SafariBrowser">
+		<classes>
+			<class name="com.test.browsers.Safari"></class>
+		</classes>
+	</test>
+</suite>

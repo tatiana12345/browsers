@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SafariTest]">
+  <test name="SafariBrowser(failed)">
+    <classes>
+      <class name="com.test.browsers.Safari">
+        <methods>
+          <include name="main"/>
+        </methods>
+      </class> <!-- com.test.browsers.Safari -->
+    </classes>
+  </test> <!-- SafariBrowser(failed) -->
+</suite> <!-- Failed suite [SafariTest] -->

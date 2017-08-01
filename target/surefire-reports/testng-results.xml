@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ChromeTest" duration-ms="5645" started-at="2017-08-01T15:55:41Z" finished-at="2017-08-01T15:55:46Z">
+    <groups>
+    </groups>
+    <test name="ChromeBrowser" duration-ms="5645" started-at="2017-08-01T15:55:41Z" finished-at="2017-08-01T15:55:46Z">
+      <class name="com.test.browsers.Chrome">
+        <test-method status="PASS" signature="ChromeTest()[pri:0, instance:com.test.browsers.Chrome@68837a77]" name="ChromeTest" duration-ms="5643" started-at="2017-08-01T11:55:41Z" finished-at="2017-08-01T11:55:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeTest -->
+      </class> <!-- com.test.browsers.Chrome -->
+    </test> <!-- ChromeBrowser -->
+  </suite> <!-- ChromeTest -->
+  <suite name="SafariTest" duration-ms="5807" started-at="2017-08-01T15:55:30Z" finished-at="2017-08-01T15:55:35Z">
+    <groups>
+    </groups>
+    <test name="SafariBrowser" duration-ms="5807" started-at="2017-08-01T15:55:30Z" finished-at="2017-08-01T15:55:35Z">
+      <class name="com.test.browsers.Safari">
+        <test-method status="PASS" signature="Stest()[pri:0, instance:com.test.browsers.Safari@79698539]" name="Stest" duration-ms="5785" started-at="2017-08-01T11:55:30Z" finished-at="2017-08-01T11:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Stest -->
+      </class> <!-- com.test.browsers.Safari -->
+    </test> <!-- SafariBrowser -->
+  </suite> <!-- SafariTest -->
+  <suite name="FirefoxTest" duration-ms="6849" started-at="2017-08-01T15:55:51Z" finished-at="2017-08-01T15:55:58Z">
+    <groups>
+    </groups>
+    <test name="FirefoxBrowser" duration-ms="6849" started-at="2017-08-01T15:55:51Z" finished-at="2017-08-01T15:55:58Z">
+      <class name="com.test.browsers.FireFox">
+        <test-method status="PASS" signature="FirefoxTest()[pri:0, instance:com.test.browsers.FireFox@6b143ee9]" name="FirefoxTest" duration-ms="6849" started-at="2017-08-01T11:55:51Z" finished-at="2017-08-01T11:55:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxTest -->
+      </class> <!-- com.test.browsers.FireFox -->
+    </test> <!-- FirefoxBrowser -->
+  </suite> <!-- FirefoxTest -->
+</testng-results>

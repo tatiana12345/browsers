@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FirefoxTest">
+	<test name="FirefoxBrowser">
+		<classes>
+			<class name="com.test.browsers.FireFox"></class>
+		</classes>
+	</test>
+</suite>

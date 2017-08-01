@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ChromeTest" duration-ms="8125" started-at="2017-07-30T16:36:47Z" finished-at="2017-07-30T16:36:55Z">
+    <groups>
+    </groups>
+    <test name="ChromeBrowser" duration-ms="8125" started-at="2017-07-30T16:36:47Z" finished-at="2017-07-30T16:36:55Z">
+      <class name="com.test.browsers.Chrome">
+        <test-method status="PASS" signature="ChromeTest()[pri:0, instance:com.test.browsers.Chrome@61832929]" name="ChromeTest" duration-ms="8106" started-at="2017-07-30T12:36:47Z" finished-at="2017-07-30T12:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeTest -->
+      </class> <!-- com.test.browsers.Chrome -->
+    </test> <!-- ChromeBrowser -->
+  </suite> <!-- ChromeTest -->
+</testng-results>
